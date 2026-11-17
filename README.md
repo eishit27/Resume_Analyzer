@@ -1,4 +1,4 @@
-# 📄 Resume & ATS Keyword Analyzer (GUI Tkinter)
+Resume & ATS Keyword Analyzer (GUI Tkinter)
 **Course:** AA1 - Advanced Programming Practices | **Faculty:** Salomi Samsudeen
 
 An intelligent Applicant Tracking System (ATS) optimization desktop application built with Python and Tkinter.
